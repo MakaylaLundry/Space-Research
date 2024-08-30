@@ -12,7 +12,7 @@ What has been successfully grown?
 - Red Russian Kale
 - Zinnia Flowers
   
-![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/download.jpg?raw=true)
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/133.jpg?raw=true)
 
 
 The Advanced Plant Habitat is another space garden that aims to conduct plant research, similar to Veggie. 
