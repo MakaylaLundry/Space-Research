@@ -11,7 +11,7 @@ What has been successfully grown?
 - Mizuna mustard 
 - Red Russian Kale
 - Zinnia Flowers
-
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/download.jpg?raw=true)
 
 
 The Advanced Plant Habitat is another space garden that aims to conduct plant research, similar to Veggie. 
@@ -23,6 +23,7 @@ How do they differ? ~ (different components)
 - Cameras +180 sensors (connected to a team on the ground)
   - These sensors sense leaf temperature, root zone moisture/temp, water recovery/distribution, and atmosphere content.
 - LEDS ~ red(630nm), green(530nm), blue(455nm), white(4100k), far-red(730nm) and infrared
+![My Image](https://raw.githubusercontent.com/MakaylaLundry/Space-Research/0604a0f230e0aa67c8a28ec33c79145caf395505/download.jpg)
 
 # Importance
 
