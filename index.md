@@ -13,6 +13,7 @@ What has been successfully grown?
 - Zinnia Flowers
 
 
+
 The Advanced Plant Habitat is another space garden that aims to conduct plant research, similar to Veggie. 
 
 How do they differ? ~ (different components)
