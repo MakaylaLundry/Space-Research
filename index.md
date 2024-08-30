@@ -25,8 +25,6 @@ How do they differ? ~ (different components)
   - These sensors sense leaf temperature, root zone moisture/temp, water recovery/distribution, and atmosphere content.
 - LEDS ~ red(630nm), green(530nm), blue(455nm), white(4100k), far-red(730nm) and infrared
 
-<img src="https://raw.githubusercontent.com/MakaylaLundry/Space-Research/0604a0f230e0aa67c8a28ec33c79145caf395505/download.jpg" alt="Alt text" width="500" />
-
 ![My Image](https://raw.githubusercontent.com/MakaylaLundry/Space-Research/0604a0f230e0aa67c8a28ec33c79145caf395505/download.jpg)
 
 # Importance
