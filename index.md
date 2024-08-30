@@ -21,7 +21,7 @@ How do they differ? ~ (different components)
 - Automated 
 - Cameras +180 sensors (connected to a team on the ground)
   - These sensors sense leaf temperature, root zone moisture/temp, water recovery/distribution, and atmosphere content.
--LEDS ~ red(630nm), green(530nm), blue(455nm), white(4100k), far-red(730nm) and infrared
+- LEDS ~ red(630nm), green(530nm), blue(455nm), white(4100k), far-red(730nm) and infrared
 
 # Importance
 
