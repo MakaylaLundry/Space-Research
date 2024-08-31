@@ -32,15 +32,17 @@ A supply run to the Internation Space Station can cost from $9000 - $180000 per 
 
 Aerospace agriculture, or ag aviation is also important for farmers. The growth rate, or GDP, is 3.6%, and we are predicted to reach 9.7 billion people by 2050. This means that it's increasingly important for farmers to produce greater yields, and it is because of aviation that we can keep up with the growing population. This is done by using fungicides and pesticides which improve the production and yield of crops. This keeps plants safe from fungus and bug outbreaks in a matter of minutes!
 
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/download.jpg?raw=true)
+
 Other Earth Applications~
-Purifying water
-Killing pathogens
-Improving Cancer Treatment effectivness
-Reduce waste
-Food security
-Mitigating pressure on the planet's ecosystem 
-Vertical Farming
-Urban food Procution
+- Purifying water
+- Killing pathogens
+- Improving Cancer Treatment effectivness
+- Reduce waste
+- Food security
+- Mitigating pressure on the planet's ecosystem 
+- Vertical Farming
+- Urban food Procution
 
 Fun Fact- Cotton seeds were sent to the International Space Station to study the effects of gravity on roots, which could create a cotton plant that absorbs water more efficiently. This could be life-changing to places with drought such as Texas and China where drought has affected cotton production. 
 
