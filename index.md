@@ -44,6 +44,8 @@ Urban food Procution
 
 Fun Fact- Cotton seeds were sent to the International Space Station to study the effects of gravity on roots, which could create a cotton plant that absorbs water more efficiently. This could be life-changing to places with drought such as Texas and China where drought has affected cotton production. 
 
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/download.jpg?raw=true)
+
 # Solutions
 
 # Growth Chamber
