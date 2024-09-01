@@ -53,14 +53,20 @@ Fun Fact- Cotton seeds were sent to the International Space Station to study the
 # Growth Chamber
 
 # Automated irrigation system
+LED:
+To successfully grow on the International Space Station, there would need to be efficient light, however, because there would be a closed environment and no sunlight in space, LEDs are used to mimic sunlight. In fact, LEDs come with unique benefits due to their ability to be modified without causing harm. 
 
-# LED
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Let's break it down:
+- Light Spectrum/Efficiency: LED lighting makes it possible to adjust to the right spectrum of light while reducing energy consumption and heat output, which increases plant growth and produces greater yields. 
+- Red Light: Promotes stem and leaf growth, best efficiency when it comes to absorbing chlorophyll. They are also electrically efficient with red light emitting more photons/watt when compared to other LED lights. (600-700nm)
+- Blue Light: Increases plant quality by promoting stomatal opening which helps develop healthy leaves and encouraging seedling growth. (450 - 490nm)
+- Green Light: Enhances plant productivity by putting more focus on lower leaves that didn't receive as much blue/red light. (500-600nm)
+- White Light: Used more for observing. Pictures can be taken and more easily analyzed for pests, diseases, nutrient deficiencies, etc.
+- Safety: LED Luminaires are put on 48VDC, which is considered safe and initiates that if any circuits are damaged there will be no risk of electrocution. To add, there is no risk of breakage when in contact with water.
+- Sustainability: LEDs make it possible to recycle water/nutrients and increase the overall efficiency of resources. For example, Vertical farming uses way less soil, therefore preventing issues in traditional farming such as erosion, degradation, or depletion.
 
+  
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 # Fluid dynamics 
 
 # Conclusion
