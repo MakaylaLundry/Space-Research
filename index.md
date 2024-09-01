@@ -66,7 +66,7 @@ Let's break it down:
 - Sustainability: LEDs make it possible to recycle water/nutrients and increase the overall efficiency of resources. For example, Vertical farming uses way less soil, therefore preventing issues in traditional farming such as erosion, degradation, or depletion.
 
   
-![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/light.jpg?raw=true)
 # Fluid dynamics 
 
 # Conclusion
