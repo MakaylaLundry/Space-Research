@@ -12,3 +12,6 @@ Sources:
 - Stringer, Liz. “What Role Does Ag Aviation Play in Producing a Local Commodity?” National Agricultural Aviation Association, 26 Apr. 2023, www.agaviation.org/2023/04/26/3247/#:~:text=Ag%20aviation%20is%20absolutely%20critical,population%20without%20increasing%20food%20costs. 
 - “Home.” RECOM, recom-power.com/en/rec-n-the-benefits-of-led-lighting-in-agriculture-289.html?0#:~:text=LED%20lighting%20provides%20the%20necessary,water%2Dbased%20environment%20with%20fish. Accessed 7 Sept. 2024. 
 - “The Benefits of LED Lighting in Agriculture.” RECOM Power, https://recom-power.com/en/rec-n-the-benefits-of-led-lighting-in-agriculture-289.html?1#:~:text=LED%20lighting%20provides%20the%20necessary,water%2Dbased%20environment%20with%20fish. Accessed 7 Sept. 2024.
+- “Which Light Range Is Most Effective in Photosynthesis?” BYJU’S, https://byjus.com/question-answer/which-light-range-is-most-effective-in-photosynthesis/. Accessed 7 Sept. 2024.
+- “What Color Light Is Best for Growing Plants?” MIGROLIGHT, https://migrolight.com/blogs/grow-light-news/what-color-light-is-best-for-growing-plants. Accessed 7 Sept. 2024.
+- “The Advantages of Using LED Technology in Plant Development.” MDPI, https://www.mdpi.com/2223-7747/12/5/1075#:~:text=The%20advantages%20of%20using%20LED,with%20other%20artificial%20light%20sources. Accessed 7 Sept. 2024.
