@@ -48,23 +48,26 @@ Fun Fact- Cotton seeds were sent to the International Space Station to study the
 
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 
-# Solutions
-
-# Growth Chamber
-
 # Automated irrigation system
-Several systems are implanted to water plants in space, each having its purpose of determining when a plant needs hydration.
+Several systems are implanted to water plants in space, each having its purpose of determining plant hydration and health.
 
-- Passive Orbital Nutrient Delivery System (PONDS)
-- Lead Sensor
+- Passive Orbital Nutrient Delivery System (PONDS): 
+  - VEGGIE (Vegetable Production System) created PONDS, which works as a water nutrient delivery system. Their main component is the ceramic porous tubes, which do the transportation of nutrients and water to the roots, and do this while replacing the need for electricity or moving parts. The other components include the wicking material (which is hydrophilic, which increases capacity), reservoir (stores water and nutrient solution), and rooting module. (clay material that is where the plants are stored)
+- Leaf Sensor
+  - Hans Seelig and an employee of BioServe Space Technologies collaborated to research and create a sensor that could measure leaf thickness by electrical pulses. Their product came out as thin clips, which attached to the plant without damaging the plant. This sensor determines leaf turgidity (plant water levels and health) through a computer which allows users to analyze and evaluate if the plant needs better hydration.
 - Passive Irrigation System
+  - A system that uses no electricity, pumps, or moving parts, used in PONDS. This allows plants to be grown in space without soil, and instead porous ceramic tubes. 
 - Hydroponic Method
+  - The method of growing plants without soil, and through water-based solutions for nutrients. 
+  - Advantages include: low system mass, natural aeration (air or gas circulation), simplicity, and automation potential. 
 - APH25 facility
+  - Experiments by the Advanced Plant Habitat (APH). Investigated growth patterns in microgravity conditions using an aeroponic system. 
 - Plant Water Management (PWM) Technology
-- Aeroponics
-- Capillary Mat Systems
-- OASYS (Orbital AquaSentry)
+  - Uses capillary fluidics to become independent from gravity to manage water and deliver nutrients. They aim to overcome the struggles of inadequate aeration and oversaturation of the root zone. 
 - Root Zone Moisture Sensors
+  - Monitors moisture redistribution phenomena in microgravity, and is essential to managing plant growth with limited access to water. 
+
+
 
 # LED
 To successfully grow on the International Space Station, there would need to be efficient light, however, because there would be a closed environment and no sunlight in space, LEDs are used to mimic sunlight. In fact, LEDs come with unique benefits due to their ability to be modified without causing harm. 
