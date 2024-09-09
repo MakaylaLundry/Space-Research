@@ -53,7 +53,7 @@ Fun Fact- Cotton seeds were sent to the International Space Station to study the
 # Growth Chamber
 
 # Automated irrigation system
-In space, there are several systems implanted to water plants in space, each having its purpose of determining when a plant needs hydration correctly
+In space, there are several systems implanted to water plants in space, each having its purpose of determining when a plant needs hydration.
 
 - Passive Orbital Nutrient Delivery System (PONDS)
 - Lead Sensor
