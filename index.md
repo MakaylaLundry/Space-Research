@@ -53,7 +53,20 @@ Fun Fact- Cotton seeds were sent to the International Space Station to study the
 # Growth Chamber
 
 # Automated irrigation system
-LED:
+In space, there are several systems implanted to water plants in space, each having its purpose of determining when a plant needs hydration correctly
+
+- Passive Orbital Nutrient Delivery System (PONDS)
+- Lead Sensor
+- Passive Irrigation System
+- Hydroponic Method
+- APH25 facility
+- Plant Water Management (PWM) Technology
+- Aeroponics
+- Capillary Mat Systems
+- OASYS (Orbital AquaSentry)
+- Root Zone Moisture Sensors
+
+# LED
 To successfully grow on the International Space Station, there would need to be efficient light, however, because there would be a closed environment and no sunlight in space, LEDs are used to mimic sunlight. In fact, LEDs come with unique benefits due to their ability to be modified without causing harm. 
 
 Let's break it down:
