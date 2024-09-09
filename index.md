@@ -68,6 +68,8 @@ Several systems are implanted to water plants in space, each having its purpose 
   - Monitors moisture redistribution phenomena in microgravity, and is essential to managing plant growth with limited access to water. 
 
 
+![My Image](https://raw.githubusercontent.com/MakaylaLundry/Space-Research/gh-pages/grc-2021-cn-00032.webp)
+
 
 # LED
 To successfully grow on the International Space Station, there would need to be efficient light, however, because there would be a closed environment and no sunlight in space, LEDs are used to mimic sunlight. In fact, LEDs come with unique benefits due to their ability to be modified without causing harm. 
