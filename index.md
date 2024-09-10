@@ -86,5 +86,11 @@ Let's break it down:
   
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/light.jpg?raw=true)
 # Fluid dynamics 
+Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) behave in microgravity. This is used to predict the performance of multiple components in aircraft systems and is used heavily in space agriculture.
+
+Nutrient Distribution
+Condensation
+Root Aeration
+Water Movement
 
 # Conclusion
