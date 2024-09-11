@@ -15,3 +15,8 @@ Sources:
 - “Which Light Range Is Most Effective in Photosynthesis?” BYJU’S, https://byjus.com/question-answer/which-light-range-is-most-effective-in-photosynthesis/. Accessed 7 Sept. 2024.
 - “What Color Light Is Best for Growing Plants?” MIGROLIGHT, https://migrolight.com/blogs/grow-light-news/what-color-light-is-best-for-growing-plants. Accessed 7 Sept. 2024.
 - “The Advantages of Using LED Technology in Plant Development.” MDPI, https://www.mdpi.com/2223-7747/12/5/1075#:~:text=The%20advantages%20of%20using%20LED,with%20other%20artificial%20light%20sources. Accessed 7 Sept. 2024.
+- “KSC-TOPS-81.” NASA Technology Transfer Program, National Aeronautics and Space Administration, https://technology.nasa.gov/patent/KSC-TOPS-81.
+- “Energy and Environment.” NASA Spinoff 2012, National Aeronautics and Space Administration, https://spinoff.nasa.gov/Spinoff2012/ee_2.html.
+- “How Do You Water Plants in Space?” NASA Science, National Aeronautics and Space Administration, https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/how-do-you-water-plants-in-space/.
+- “Plant Water Management in Microgravity.” NASA Technical Reports Server, National Aeronautics and Space Administration, https://ntrs.nasa.gov/api/citations/20220003535/downloads/Plant%20Water%20Management%20in%20Microgravity%20Final%2002.pdf.
+- “Plant Water Management in Microgravity.” NASA Technical Reports Server, National Aeronautics and Space Administration, https://ntrs.nasa.gov/citations/20220003535.
