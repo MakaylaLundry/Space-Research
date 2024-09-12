@@ -48,8 +48,16 @@ Fun Fact- Cotton seeds were sent to the International Space Station to study the
 
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 
-#Growth Chambers
+# Growth Chambers
 Growth Chambers, which are the base of farming within microgravity provide appropriate levels of light, air temperature, relative humidity, and carbon dioxide, all adjustable according to different species of plants. They also create a space where ventilation and irrigation systems are implanted and automatic with minimal action required from the space station on earth. 
+
+Benefits:
+- Replicate climates
+- Year-round growth 
+- Consistency in data
+- Programmable conditions
+
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 
 # Automated irrigation system
 Several systems are implanted to water plants in space, each having its purpose of determining plant hydration and health.
@@ -100,8 +108,10 @@ Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) 
   - At earths gravity ~ 1g, tehse layers are considered thin because of turbulent mixing (due to convective heat exchange), which allows for normal respiration and transpiration. 
   - Space gravity, however, has thicker boundary layers, making it harder to distribute/circulate gas.
   - Downfalls: Ex.  Reproductive failure in CHROMEX 4 spaceflight experiment
-  - Advantages: Better seed development (if air distribution increases) 
-
+  - Advantages: Better seed development (if air distribution increases)
+  
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 
 # Conclusion
 Space agriculture has many uses/benefits to aerospace development and farming on Earth. The future of space agriculture can lead to unpredictable, and bright innovations especially now with multiple agricultural organizations working on the  International Space Station. This is and will be increasingly crucial to support life on Earth and future space explorations.
