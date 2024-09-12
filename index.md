@@ -57,7 +57,7 @@ Benefits:
 - Consistency in data
 - Programmable conditions
 
-![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
+![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/new.jpg?raw=true)
 
 # Automated irrigation system
 Several systems are implanted to water plants in space, each having its purpose of determining plant hydration and health.
@@ -110,7 +110,7 @@ Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) 
   - Downfalls: Ex.  Reproductive failure in CHROMEX 4 spaceflight experiment
   - Advantages: Better seed development (if air distribution increases)
   
-![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
+![My Image]()
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 
 # Conclusion
