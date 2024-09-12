@@ -111,7 +111,7 @@ Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) 
   - Advantages: Better seed development (if air distribution increases)
   
 ![My Image](https://www.nasa.gov/wp-content/uploads/2023/03/two_phase_flow_high_velocity.gif)
-![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-is-the-boundary-layer-thickness&psig=AOvVaw0OCCL6iYMNh3ozqHDOKMP5&ust=1726211004591000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCQj6TrvIgDFQAAAAAdAAAAABAJ)
+![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Feaglepubs.erau.edu%2Fintroductiontoaerospaceflightvehicles%2Fchapter%2Fintroduction-to-boundary-layers%2F&psig=AOvVaw27Gy8t8svLb2S9ZHPjVKVh&ust=1726211242339000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCApZHsvIgDFQAAAAAdAAAAABAE)
 
 # Conclusion
 Space agriculture has many uses/benefits to aerospace development and farming on Earth. The future of space agriculture can lead to unpredictable, and bright innovations especially now with multiple agricultural organizations working on the  International Space Station. This is and will be increasingly crucial to support life on Earth and future space explorations.
