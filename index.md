@@ -110,7 +110,7 @@ Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) 
   - Downfalls: Ex.  Reproductive failure in CHROMEX 4 spaceflight experiment
   - Advantages: Better seed development (if air distribution increases)
   
-![My Image]()
+![My Image](https://www.nasa.gov/wp-content/uploads/2023/03/two_phase_flow_high_velocity.gif)
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 
 # Conclusion
