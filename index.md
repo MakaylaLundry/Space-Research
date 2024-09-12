@@ -48,6 +48,9 @@ Fun Fact- Cotton seeds were sent to the International Space Station to study the
 
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 
+#Growth Chambers
+Growth Chambers, which are the base of farming within microgravity provide appropriate levels of light, air temperature, relative humidity, and carbon dioxide, all adjustable according to different species of plants. They also create a space where ventilation and irrigation systems are implanted and automatic with minimal action required from the space station on earth. 
+
 # Automated irrigation system
 Several systems are implanted to water plants in space, each having its purpose of determining plant hydration and health.
 
@@ -88,9 +91,18 @@ Let's break it down:
 # Fluid dynamics 
 Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) behave in microgravity. This is used to predict the performance of multiple components in aircraft systems and is used heavily in space agriculture.
 
-Nutrient Distribution
-Condensation
-Root Aeration
-Water Movement
+- Water Movement
+  - Water is distributed in concentric circles around solution tubes due to capillary forces in microgravity, unlike in gravity where the solution would otherwise be pulled down due to gravity (-9.8). It's important to note that gravitation forces are greater than surface tension forces, meaning that water film is thin when surrounding particles. The opposite is true for microgravity, meaning pores can become trapped and create pockets that are oxygen deficient. 
+  - Sensors to monitor this movement include pressure sensors, moisture sensor arrays, and oxygen sensors.
+ 
+- Boundary layers
+  - Undisturbed (or stagnant) layers of air surrounding plant organs. Major gases (carbon and water vapor) must be absorbed from bulk air to organs into these layers. 
+  - At earths gravity ~ 1g, tehse layers are considered thin because of turbulent mixing (due to convective heat exchange), which allows for normal respiration and transpiration. 
+  - Space gravity, however, has thicker boundary layers, making it harder to distribute/circulate gas.
+  - Downfalls: Ex.  Reproductive failure in CHROMEX 4 spaceflight experiment
+  - Advantages: Better seed development (if air distribution increases) 
+
 
 # Conclusion
+Space agriculture has many uses/benefits to aerospace development and farming on Earth. The future of space agriculture can lead to unpredictable, and bright innovations especially now with multiple agricultural organizations working on the  International Space Station. This is and will be increasingly crucial to support life on Earth and future space explorations.
+
