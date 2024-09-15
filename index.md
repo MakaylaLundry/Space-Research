@@ -1,6 +1,6 @@
 
 ---
-Author: Makayla Lundry
+author: Makayla Lundry
 ---
 ---
 title: Introduction
