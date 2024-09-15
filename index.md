@@ -117,6 +117,8 @@ Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) 
 # Conclusion
 Space agriculture has many uses/benefits to aerospace development and farming on Earth. The future of space agriculture can lead to unpredictable, and bright innovations especially now with multiple agricultural organizations working on the  International Space Station. This is and will be increasingly crucial to support life on Earth and future space explorations.
 
+
+
 ## References:
 1. “Growing Plants in Space.” NASA, NASA, 8 Dec. 2023, www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/. 
 2. “Here’s How #space Technology Can Improve #agriculture.” World Economic Forum, www.weforum.org/agenda/2023/05/space-tech-can-improve-agriculture/#:~:text=Predicting%2C%20verifying%20and%20mitigating%20damage,after%20droughts%2C%20fires%20and%20floods. Accessed 26 Aug. 2024.
