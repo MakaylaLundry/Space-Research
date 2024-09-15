@@ -1,9 +1,6 @@
 
----
-title: "Aerospace Engineering: Sensors and Automation Systems for Sustainable Space Agriculture"
-description: "A professional research paper on space agriculture"
----
-# "Aerospace Engineering: Sensors and Automation Systems for Sustainable Space Agriculture"
+
+
 **Author: Makayla Lundry**
 
 
