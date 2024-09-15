@@ -1,3 +1,4 @@
+**Author: Makayla Lundry**
 ---
 title: Introduction
 ---
