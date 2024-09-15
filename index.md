@@ -7,12 +7,12 @@ description: "A professional research paper on space agriculture"
 **Author: Makayla Lundry**
 
 
-# Introduction
+## Introduction
 
 
 Technology is growing exponentially, leading teams such as NASA, ESA, and CNSA to extend the duration and complexity of their missions. Additionally, space agriculture grows to be increasingly important, lending vital vitamins that you simply can't get from freeze-dried foods. More importantly, these plants provide unignorable vitamins and psychological benefits, oxygen production (+ CO2 removal), sustainable food supply, a better understanding of plant growth, and aesthetics. 
 
-# Background
+## Background
 The Vegetable Production System, or Veggie, is a space garden that helps NASA study plant growth. This garden grows in a clay-based growth media and fertilizer, distributing water, nutrients, and air. This relatively small 22 in x 14 in x 9 in garden holds 6 plants and is stored in a growth chamber with magenta pink LED light to support growth. 
 
 What has been successfully grown?
@@ -36,7 +36,7 @@ How do they differ? ~ (different components)
 
 ![My Image](https://raw.githubusercontent.com/MakaylaLundry/Space-Research/0604a0f230e0aa67c8a28ec33c79145caf395505/download.jpg)
 
-# Importance
+## Importance
 A supply run to the Internation Space Station can cost from $9000 - $180000 per pound, which is why pre-packed and freeze-dried food is the norm, however, they not only break down over time but cause vitamin deficiencies which could pose a problem for longer missions. 
 
 Aerospace agriculture, or ag aviation is also important for farmers. The growth rate, or GDP, is 3.6%, and we are predicted to reach 9.7 billion people by 2050. This means that it's increasingly important for farmers to produce greater yields, and it is because of aviation that we can keep up with the growing population. This is done by using fungicides and pesticides which improve the production and yield of crops. This keeps plants safe from fungus and bug outbreaks in a matter of minutes!
@@ -57,7 +57,7 @@ Fun Fact- Cotton seeds were sent to the International Space Station to study the
 
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/cotton.jpg?raw=true)
 
-# Growth Chambers
+## Growth Chambers
 Growth Chambers, which are the base of farming within microgravity provide appropriate levels of light, air temperature, relative humidity, and carbon dioxide, all adjustable according to different species of plants. They also create a space where ventilation and irrigation systems are implanted and automatic with minimal action required from the space station on earth. 
 
 Benefits:
@@ -68,7 +68,7 @@ Benefits:
 
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/new.jpg?raw=true)
 
-# Automated irrigation system
+## Automated irrigation system
 Several systems are implanted to water plants in space, each having its purpose of determining plant hydration and health.
 
 - Passive Orbital Nutrient Delivery System (PONDS): 
@@ -91,7 +91,7 @@ Several systems are implanted to water plants in space, each having its purpose 
 ![My Image](https://raw.githubusercontent.com/MakaylaLundry/Space-Research/gh-pages/grc-2021-cn-00032.webp)
 
 
-# LED
+## LED
 To successfully grow on the International Space Station, there would need to be efficient light, however, because there would be a closed environment and no sunlight in space, LEDs are used to mimic sunlight. In fact, LEDs come with unique benefits due to their ability to be modified without causing harm. 
 
 Let's break it down:
@@ -105,7 +105,7 @@ Let's break it down:
 
   
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/light.jpg?raw=true)
-# Fluid dynamics 
+## Fluid dynamics 
 Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) behave in microgravity. This is used to predict the performance of multiple components in aircraft systems and is used heavily in space agriculture.
 
 - Water Movement
@@ -122,7 +122,7 @@ Computational fluid dynamics, or (CFD) describes how fluids (liquids and gases) 
 ![My Image](https://www.nasa.gov/wp-content/uploads/2023/03/two_phase_flow_high_velocity.gif)
 ![My Image](https://github.com/MakaylaLundry/Space-Research/blob/gh-pages/BL_Blasius.png?raw=true)
 
-# Conclusion
+## Conclusion
 Space agriculture has many uses/benefits to aerospace development and farming on Earth. The future of space agriculture can lead to unpredictable, and bright innovations especially now with multiple agricultural organizations working on the  International Space Station. This is and will be increasingly crucial to support life on Earth and future space explorations.
 
 
