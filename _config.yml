@@ -1,10 +1,8 @@
-##remote_theme: pages-themes/architect@v0.2.0
-##plugins:
-##- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 title: "Aerospace Engineering: Sensors and Automation Systems for Sustainable Space Agriculture"
 description: "A professional research paper on space agriculture"
-author: Makayla Lundry
+author: "Makayla Lundry"
 theme: minima
 
 # Plugins
@@ -19,7 +17,8 @@ minima:
   skin: dark # Choose 'dark', 'light', or 'default' as your color scheme
 
 # Social Links
-social_links: github: https://github.com/MakaylaLundry
+social_links: 
+  github: "https://github.com/MakaylaLundry"
 
 
 # Optional: Add other configurations, like baseurl or permalink settings, if needed
