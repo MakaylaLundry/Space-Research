@@ -1,7 +1,7 @@
 
 
 
-**Author: Makayla Lundry**
+*Author: Makayla Lundry*
 
 
 ## Introduction
