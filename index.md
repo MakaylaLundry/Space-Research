@@ -1,10 +1,14 @@
 
 ---
-author: Makayla Lundry
+title: "Aerospace Engineering: Sensors and Automation Systems for Sustainable Space Agriculture"
+description: "A professional research paper on space agriculture"
 ---
----
-title: Introduction
----
+# "Aerospace Engineering: Sensors and Automation Systems for Sustainable Space Agriculture"
+**Author: Makayla Lundry**
+
+
+# Introduction
+
 
 Technology is growing exponentially, leading teams such as NASA, ESA, and CNSA to extend the duration and complexity of their missions. Additionally, space agriculture grows to be increasingly important, lending vital vitamins that you simply can't get from freeze-dried foods. More importantly, these plants provide unignorable vitamins and psychological benefits, oxygen production (+ CO2 removal), sustainable food supply, a better understanding of plant growth, and aesthetics. 
 
